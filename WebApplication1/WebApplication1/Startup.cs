@@ -28,7 +28,7 @@ namespace WebApplication1
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<NoteContext>(opt =>
-                opt.UseInMemoryDatabase("Budget"));
+                opt.UseInMemoryDatabase("TestDB"));
             services.AddControllers();
         }
 
