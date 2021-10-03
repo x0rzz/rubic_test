@@ -29,6 +29,8 @@ namespace WebApplication1
         {
             services.AddDbContext<NoteContext>(opt =>
                 opt.UseInMemoryDatabase("TestDB"));
+            services.AddDbContext<UserContext>(opt =>
+                opt.UseInMemoryDatabase("TestUserDB"));
             services.AddControllers();
         }
 
