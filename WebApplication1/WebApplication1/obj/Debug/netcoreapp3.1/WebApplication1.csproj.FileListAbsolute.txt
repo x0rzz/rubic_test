@@ -9,11 +9,8 @@ C:\Users\StudentDev\Documents\GitHub\rubic_test\WebApplication1\WebApplication1\
 C:\Users\StudentDev\Documents\GitHub\rubic_test\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csprojAssemblyReference.cache
 C:\Users\StudentDev\Documents\GitHub\rubic_test\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
 C:\Users\StudentDev\Documents\GitHub\rubic_test\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
-C:\Users\StudentDev\Documents\GitHub\rubic_test\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
-C:\Users\StudentDev\Documents\GitHub\rubic_test\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\StudentDev\Documents\GitHub\rubic_test\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
 C:\Users\StudentDev\Documents\GitHub\rubic_test\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
-C:\Users\StudentDev\Documents\GitHub\rubic_test\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
 C:\Users\StudentDev\Documents\GitHub\rubic_test\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
 C:\Users\StudentDev\Documents\GitHub\rubic_test\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
 C:\Users\StudentDev\Documents\GitHub\rubic_test\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
@@ -149,3 +146,6 @@ C:\Users\StudentDev\Documents\GitHub\rubic_test\WebApplication1\WebApplication1\
 C:\Users\StudentDev\Documents\GitHub\rubic_test\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\StudentDev\Documents\GitHub\rubic_test\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\StudentDev\Documents\GitHub\rubic_test\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\StudentDev\Documents\Github\rubic_test\WebApplication1\WebApplication1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\StudentDev\Documents\Github\rubic_test\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\StudentDev\Documents\Github\rubic_test\WebApplication1\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
